@@ -8,18 +8,16 @@ void ReallyBadFunction(bool arg1, bool arg2, bool arg3, bool arg4, bool arg5, bo
 		{
 			if (arg3)
 			{
-				if (arg3)
+
+				if (arg4)
 				{
-					if (arg4)
+					if (arg5)
 					{
-						if (arg5)
+						if (arg6)
 						{
-							if (arg6)
+							if (arg7)
 							{
-								if (arg7)
-								{
-									std::cout << "This is a really bad function!\n."
-								}
+								std::cout << "This is a really bad function!\n."
 							}
 						}
 					}

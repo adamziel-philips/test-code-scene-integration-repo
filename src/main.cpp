@@ -33,5 +33,5 @@ void Main()
 {
 	std::cout << "Hello world!\n";
 
-	ReallyBadFunction(true, true, true, true, true, true true);
+	ReallyBadFunction(true, true, true, true, true, true, true);
 }
